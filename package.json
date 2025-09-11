@@ -1,0 +1,22 @@
+{
+  "name": "do-zero-a-api",
+  "version": "1.0.0",
+  "description": "Api curso Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carolainesantos/Do-Zero-a-API.git"
+  },
+  "author": "Carolaine dos Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carolainesantos/Do-Zero-a-API/issues"
+  },
+  "homepage": "https://github.com/carolainesantos/Do-Zero-a-API#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
